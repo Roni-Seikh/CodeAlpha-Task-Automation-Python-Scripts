@@ -80,8 +80,7 @@ This project enhanced my **Python scripting & GUI development skills**.
 
 ## 🚀 **Future Enhancements**  
 - ✅ Add AI-based **smart file categorization**  
-- 🌟 Multi-threading support to **handle large file directories efficiently**  
-- 🔥 Implement **drag & drop functionality** for seamless file organization  
+- 🌟 Multi-threading support to **handle large file directories efficiently**   
 - 🎨 Improve UI with **custom themes & icons**  
 
 Fork the repository & submit a pull request!  
