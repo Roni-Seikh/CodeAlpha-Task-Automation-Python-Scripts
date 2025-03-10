@@ -7,8 +7,7 @@ CodeAlpha-Task-Automation-Python-Scripts/
 │   ├── Home Page Light Mode.png      # Light mode UI  
 │   ├── Home Page Dark Mode.png       # Dark mode UI  
 │   ├── File Organized.png            # After organization  
-│── src/                        # Source code directory  
-│   ├── Task_Automation_With_Python_Scripts.py   # Main Python file  
+│──Task_Automation_With_Python_Scripts.py   # Main Python file  
 │── README.md                   # Project documentation  
 ```
 
