@@ -42,15 +42,16 @@ This project enhanced my **Python scripting & GUI development skills**.
 
 ---
 
-## 🖼️ **Project Screenshots**  
-### 📌 Before Sorting  
-![Before Sorting](https://github.com/Roni-Seikh/File-Organizer-GUI-Python/blob/main/assets/before_sorting.png)  
+ ## 🖼️ Project Screenshots  
 
-### ✅ After Sorting  
-![After Sorting](https://github.com/Roni-Seikh/File-Organizer-GUI-Python/blob/main/assets/after_sorting.png)  
+### 📌 Home Page (Light Mode)  
+![Home Page Light Mode](https://github.com/Roni-Seikh/CodeAlpha-Task-Automation-Python-Scripts/blob/main/Assets/Home%20Page%20Light%20Mode.png)  
 
-### 🖥️ GUI Interface  
-![GUI Interface](https://github.com/Roni-Seikh/File-Organizer-GUI-Python/blob/main/assets/gui_interface.png)  
+### 🌙 Home Page (Dark Mode)  
+![Home Page Dark Mode](https://github.com/Roni-Seikh/CodeAlpha-Task-Automation-Python-Scripts/blob/main/Assets/Home%20Page%20Dark%20Mode.png)  
+
+### ✅ After File Organization  
+![File Organized](https://github.com/Roni-Seikh/CodeAlpha-Task-Automation-Python-Scripts/blob/main/Assets/File%20Organized.png)  
 
 ---
 
