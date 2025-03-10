@@ -7,13 +7,8 @@ File-Organizer-GUI-Python/
 │   ├── before_sorting.png      # Before organization  
 │   ├── after_sorting.png       # After organization  
 │   ├── gui_interface.png       # GUI application preview  
-│── src/                        # Python scripts  
-│   ├── file_organizer_cli.py   # CLI version  
-│   ├── file_organizer_gui.py   # GUI version  
+│   ├── Task_Automation_With_Python_Scripts.py   # Main python file
 │── README.md                   # Project documentation  
-│── .gitignore                  # Ignore unnecessary files  
-│── requirements.txt            # Dependencies  
-│── LICENSE                     # Open-source license (Optional)  
 ```
 
 # 📂 Task Automation With Python Scripts 🚀  
