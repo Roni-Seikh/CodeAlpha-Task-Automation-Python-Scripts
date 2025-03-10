@@ -16,11 +16,6 @@ File-Organizer-GUI-Python/
 │── LICENSE                     # Open-source license (Optional)  
 ```
 
----
-
-## **📜 README.md Template**  
-
-```md
 # 📂 File Organizer with GUI - Python 🚀  
 
 An advanced **File Organizer** with both **Command Line (CLI) and Graphical User Interface (GUI)** versions. This project was developed during my **internship at Code Alpha**.  
@@ -95,7 +90,7 @@ This project enhanced my **Python scripting & GUI development skills**.
 ## 🚀 **Future Enhancements**  
 - ✅ Add AI-based **smart file categorization**  
 - 🌟 Multi-threading support to **handle large file directories efficiently**
-Fork the repository & submit a pull request!  
+-Fork the repository & submit a pull request!  
 
 ---
 
