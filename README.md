@@ -16,7 +16,7 @@ File-Organizer-GUI-Python/
 │── LICENSE                     # Open-source license (Optional)  
 ```
 
-# 📂 File Organizer with GUI - Python 🚀  
+# 📂 Task Automation With Python Scripts 🚀  
 
 An advanced **File Organizer** with both **Command Line (CLI) and Graphical User Interface (GUI)** versions. This project was developed during my **internship at Code Alpha**.  
 
@@ -35,7 +35,7 @@ This **File Organizer** automates file management by categorizing and moving fil
 ## 🎓 **Internship Details**  
 - **Company:** Code Alpha  
 - **Internship Role:** Python Developer Intern  
-- **Duration:** (Mention your internship period)  
+- **Duration:** 1 Month 
 - **Projects Completed:** Hangman Game, Stock Portfolio Tracker, File Organizer  
 
 This project enhanced my **Python scripting & GUI development skills**.  
@@ -63,8 +63,8 @@ This project enhanced my **Python scripting & GUI development skills**.
 ## 💻 **Installation & Setup**  
 1️⃣ Clone the repository:  
    ```bash
-   git clone https://github.com/Roni-Seikh/File-Organizer-GUI-Python.git
-   cd File-Organizer-GUI-Python
+   git clone https://github.com/Roni-Seikh/CodeAlpha-Task-Automation-Python-Scripts.git
+   cd CodeAlpha-Task-Automation-Python-Scripts
    ```  
 2️⃣ Install dependencies:  
    ```bash
@@ -72,11 +72,11 @@ This project enhanced my **Python scripting & GUI development skills**.
    ```  
 3️⃣ Run the CLI version:  
    ```bash
-   python src/file_organizer_cli.py
+   python src/.py
    ```  
 4️⃣ Run the GUI version:  
    ```bash
-   python src/file_organizer_gui.py
+   python src/Task_Automation_With_Python_Scripts.py
    ```  
 
 ---
