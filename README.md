@@ -1,19 +1,20 @@
-# CodeAlpha-Task-Automation-Python-Scripts 
+# CodeAlpha-Task-Automation-Python-Scripts
 
 ### **📂 Folder Structure**  
 ```
-File-Organizer-GUI-Python/
-│── assets/                    # Store screenshots  
-│   ├── before_sorting.png      # Before organization  
-│   ├── after_sorting.png       # After organization  
-│   ├── gui_interface.png       # GUI application preview  
-│   ├── Task_Automation_With_Python_Scripts.py   # Main python file
+CodeAlpha-Task-Automation-Python-Scripts/
+│── Assets/                    # Store screenshots  
+│   ├── Home Page Light Mode.png      # Light mode UI  
+│   ├── Home Page Dark Mode.png       # Dark mode UI  
+│   ├── File Organized.png            # After organization  
+│── src/                        # Source code directory  
+│   ├── Task_Automation_With_Python_Scripts.py   # Main Python file  
 │── README.md                   # Project documentation  
 ```
 
 # 📂 Task Automation With Python Scripts 🚀  
 
-An advanced **File Organizer** with both **Command Line (CLI) and Graphical User Interface (GUI)** versions. This project was developed during my **internship at Code Alpha**.  
+An advanced **File Organizer** that operates **only in GUI mode** and is specifically designed for **file operations**. This project was developed during my **internship at Code Alpha**.  
 
 ---
 
@@ -21,23 +22,23 @@ An advanced **File Organizer** with both **Command Line (CLI) and Graphical User
 This **File Organizer** automates file management by categorizing and moving files into respective folders.  
 
 ✅ **Key Features:**  
-- 📂 **CLI & GUI versions** for easy file organization  
+- 📂 **GUI-only version** for intuitive file organization  
 - 🏷️ Supports **multiple file categories** (Images, PDFs, Videos, etc.)  
-- 🔥 Built using **Python & Tkinter** for a user-friendly interface  
+- 🔥 Built using **Python, os, shutil & Tkinter** for a user-friendly interface  
 
 ---
 
 ## 🎓 **Internship Details**  
 - **Company:** Code Alpha  
 - **Internship Role:** Python Developer Intern  
-- **Duration:** 1 Month 
+- **Duration:** 1 Month  
 - **Projects Completed:** Hangman Game, Stock Portfolio Tracker, File Organizer  
 
 This project enhanced my **Python scripting & GUI development skills**.  
 
 ---
 
- ## 🖼️ Project Screenshots  
+## 🖼️ Project Screenshots  
 
 ### 📌 Home Page (Light Mode)  
 ![Home Page Light Mode](https://github.com/Roni-Seikh/CodeAlpha-Task-Automation-Python-Scripts/blob/main/Assets/Home%20Page%20Light%20Mode.png)  
@@ -66,11 +67,7 @@ This project enhanced my **Python scripting & GUI development skills**.
    ```bash
    pip install -r requirements.txt
    ```  
-3️⃣ Run the CLI version:  
-   ```bash
-   python src/.py
-   ```  
-4️⃣ Run the GUI version:  
+3️⃣ Run the GUI version:  
    ```bash
    python src/Task_Automation_With_Python_Scripts.py
    ```  
@@ -78,15 +75,17 @@ This project enhanced my **Python scripting & GUI development skills**.
 ---
 
 ## 🎯 **How It Works?**  
-1. **CLI Version** – Organizes files in the given directory via command line  
-2. **GUI Version** – Allows users to select a directory and organize files with a button click  
+1. **GUI Version** – Allows users to select a directory and organize files with a button click  
 
 ---
 
 ## 🚀 **Future Enhancements**  
 - ✅ Add AI-based **smart file categorization**  
-- 🌟 Multi-threading support to **handle large file directories efficiently**
--Fork the repository & submit a pull request!  
+- 🌟 Multi-threading support to **handle large file directories efficiently**  
+- 🔥 Implement **drag & drop functionality** for seamless file organization  
+- 🎨 Improve UI with **custom themes & icons**  
+
+Fork the repository & submit a pull request!  
 
 ---
 
@@ -101,4 +100,5 @@ This project is licensed under the **MIT License**.
 
 ---
 
-📌 **If you liked this project, don’t forget to ⭐ the repo!**  
+📌 **If you liked this project, don’t forget to ⭐ the repo!**
+
